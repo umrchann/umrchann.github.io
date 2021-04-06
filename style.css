@@ -44,3 +44,8 @@ h2{
     margin-inline-end: 0px;
     font-weight: bold;
 }
+
+.nav {
+    box-shadow: 0 2px 2px -2px rgb(0 0 0 / 20%);
+    overflow: auto;
+}
