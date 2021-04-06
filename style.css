@@ -45,7 +45,13 @@ h2{
     font-weight: bold;
 }
 
-.nav {
+.nav,ul{
     box-shadow: 0 2px 2px -2px rgb(0 0 0 / 20%);
     overflow: auto;
+}
+
+.nav-container {
+    margin: 1rem auto;
+    position: relative;
+    text-align: center;
 }
