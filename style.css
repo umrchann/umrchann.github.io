@@ -45,7 +45,17 @@ h2{
     font-weight: bold;
 }
 
-.nav,ul{
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.nav{
     box-shadow: 0 2px 2px -2px rgb(0 0 0 / 20%);
     overflow: auto;
 }
@@ -54,4 +64,14 @@ h2{
     margin: 1rem auto;
     position: relative;
     text-align: center;
+}
+
+.nav-title {
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    color: #555;
+    display: inline-block;
+    margin: 0;
+    padding-right: .2rem;
 }
