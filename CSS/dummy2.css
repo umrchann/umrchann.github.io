@@ -89,3 +89,7 @@ img.icon {
     background-size: 50px 50px;
     background-position: right bottom;
 }
+
+.text-center{
+    text-align: center;
+}
