@@ -5,6 +5,9 @@ body {
 li {
   list-style: none;
 }
+a {
+  text-decoration: none;
+}
 /*header*/
 .header {
   background-color: #26d0c9;
