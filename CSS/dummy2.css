@@ -8,6 +8,11 @@ li {
 a {
   text-decoration: none;
 }
+a.anchor {
+    display: block;
+    padding-top: 70px;
+    margin-top: -70px;
+}
 /*header*/
 .header {
   position: fixed;
