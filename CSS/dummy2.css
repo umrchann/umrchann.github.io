@@ -13,6 +13,17 @@ a.anchor {
     padding-top: 70px;
     margin-top: -70px;
 }
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+dl, dt, dd {
+margin: 0;
+padding: 0;
+}
+
 /*header*/
 .header {
   position: fixed;
