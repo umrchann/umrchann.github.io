@@ -14,11 +14,6 @@ a.anchor {
     margin-top: -70px;
 }
 
-dl, dt, dd {
-margin: 0;
-padding: 0;
-}
-
 /*header*/
 .header {
   position: fixed;
